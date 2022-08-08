@@ -2,4 +2,4 @@
 <p align="center">
 <b>⭐️ The best music player of the future ⭐️</b>
 </p><br>
-<img style="width: 400px; float: right;"src="https://user-images.githubusercontent.com/67559040/183462196-4bfbc301-b338-4b2b-8d2d-3efc3d4861ec.png">
+<img style="width: 400px; text-align: left;"src="https://user-images.githubusercontent.com/67559040/183462196-4bfbc301-b338-4b2b-8d2d-3efc3d4861ec.png">
