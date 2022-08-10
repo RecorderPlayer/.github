@@ -9,6 +9,3 @@
   <img align="left" style="width: 400px;"src="https://user-images.githubusercontent.com/67559040/183463830-737a1b6b-9863-42b3-828d-c3620c78282e.png">
   <img align="right" style="width: 400px;" src="https://user-images.githubusercontent.com/67559040/183993737-d8e72f76-7a3a-4ff6-8580-9d9eff0ff39c.png">
 </div>
-<div align="right">
-  <img style="width: 400px;"src="https://user-images.githubusercontent.com/67559040/183469131-d40f2d26-4411-4a5a-8c92-5686b79beb08.png">
-</div>
